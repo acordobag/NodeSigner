@@ -18,7 +18,7 @@
   "homepage": "https://github.com/acordobag/NodeSigner#readme",
   "dependencies": {
     "@types/express": "^4.17.6",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "typescript": "^3.9.2",
     "xadesjs": "^2.0.18"
   }
